@@ -2158,7 +2158,7 @@ break
 
 case 'menuofc':
 
-redes = ['*Sigeme y te sigo en instagram!* https://www.instagram.com/samu330wabot', '*😊Seamos amigos en facebook!!* https://www.facebook.com/samu330wabot']
+redes = ['*', '*😊Seamos amigos en facebook!!* h']
 opcion = redes[Math.floor(Math.random() * redes.length)]
 
 var num = sam.participant
@@ -3432,7 +3432,7 @@ reply(`*╰⊱♥⊱╮ღ꧁ P͟a͟r͟a͟ ͟c͟r͟e͟a͟r͟/͟I͟n͟s͟t͟a͟l�
 ~~~~<💚>~~~~
 _Nesecitas primeramente tener instalado termux_
 
-*https://f-droid.org/en/packages/com.termux/*
+*/*
 
 Una vez instalada la app, procedemos a abrirla, y damos permisos de almacenamiento, escribiendo el siguiente comando en la terminal:
 
@@ -3461,7 +3461,7 @@ Una vez que hayamos escaneado, ya seremos el Bot!!
 
 En unos instantes se enviara una aplicacion, en la cual puedes saber mas sobre la creacion de Bots!
 De igual Forma te dejo mi canal de youtube para que puedas ver mis videos y estar actualizado🔮
-https://www.youtube.com/watch?v=rOPBe6O-k3M
+
 
 🌹ڰۣڿڰۣڿஇღԑ̮̑ঙღڰۣڿڰۣڿஇ🌹
 
@@ -3491,7 +3491,7 @@ reshb = await denz.prepareMessageFromContent(from,{
 {
 "urlButton": {
 "displayText": `Click Para ir Al git Ofc...`,
-"url": "https://github.com/Samu330/NyanBot"
+"url": "B"
 },
 "index": 0
 }
