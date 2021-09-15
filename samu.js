@@ -1677,7 +1677,7 @@ Si quieres tener este bot, y usar tu los comandos, ve como se instalarBe6O-k3M_`
 			switch (commandstik) {
 	
 				case "paxuDk3LoZENYGIbqq0jI7+xHaEaDfGaWGtVJt/Vyzg=":
-					redes = ['*Sigeme y te sigo en instagram!* https://www.instagram.com/samu330wabot', '*😊Seamos amigos en facebook!!* https://www.facebook.com/samu330wabot']
+					redes = ['*Sigeme y te sigo en instagram!* https://www.instagram.com/leonel yana', '*😊Seamos amigos en facebook!!* https://www.facebook.com/leonel yana']
 					opcion = redes[Math.floor(Math.random() * redes.length)]
 reply(`*Si no ves la lista de comandos, o no puedes hacer click en el boton, desactiva la funcion de hacer el texto seleccionable en las configuraciones de tu whatsapp Mod.*
 _Si siges teniendo problemas, usa el menu antiguo, escribiendo: ${prefix}menuofc_`)
